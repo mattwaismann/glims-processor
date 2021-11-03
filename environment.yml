@@ -1,0 +1,8 @@
+name: glims_processor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - notebook
+  - geopandas
+prefix: C:\Users\mattw\Miniconda3\envs\glims_processor
